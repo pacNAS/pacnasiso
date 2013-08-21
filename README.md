@@ -1,9 +1,7 @@
-Name still to be defined
+pacNAS
+======
 
-* BeArch
-* BtrArch
-* BtrNAS
-* ...
+Script to generate ISO files for the pacNAS distribution.
 
 Howto setup git repository
 ==========================
